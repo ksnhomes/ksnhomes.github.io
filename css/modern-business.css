@@ -23,6 +23,15 @@ body {
     opacity: 0.8;
 }
 
+
+/*----Navbar------*/
+
+.navbar {
+    background-color: #606C80;
+}
+
+/*---pend Navbar-----*/
+
 /* Home Page Carousel */
 
 header.carousel {
