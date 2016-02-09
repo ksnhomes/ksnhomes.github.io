@@ -30,6 +30,10 @@ body {
     background-color: #606C80;
 }
 
+.navactive {
+    background-color: #989F7B;
+}
+
 /*---pend Navbar-----*/
 
 /* Home Page Carousel */
